@@ -7,18 +7,20 @@ Checkpass is an app script whcih will help you in finding the most secure passwo
 
 Feel free to check your passwords because the password which user will enter will not be send directly to the API. The password firts would be encoded into SHA-256 code whihc is impossible to decode. In this way user will be safely able to select their passwords for their accounts.
 ## Checking Password result 1
+You can see this password which I had passed as an argument was pawned too many times. So this app is advising me not to select this password for my use as it has pawned too many times.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rabahalishah/CheckPass/assets/117630286/af873f06-56bc-4293-95e6-256b8e01edf2)
 
 ## Checking Password result 2
+In this case, I passed a random difficult password. It has check it safely and allowed to set this gibberish as my password as it has not pawned ever.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rabahalishah/CheckPass/assets/117630286/6f5c4532-2655-4692-a098-e99f6fb41fb2)
 
 
 
 ## Built With
 
-![Logo](https://user-images.githubusercontent.com/36489953/78834570-0f5b2e80-79ef-11ea-8260-11a33e15fc1c.png)
+<img src="https://user-images.githubusercontent.com/36489953/78834570-0f5b2e80-79ef-11ea-8260-11a33e15fc1c.png" width="150" height="150" />
 
 
 
